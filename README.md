@@ -44,7 +44,7 @@ river-bends-analysis
 ├── geometry/      # Bend detection and geometric metrics
 ├── gui/           # PySide6 graphical interface + entry point for GUI usage
 ├── outputs/       # Generated plots and CSV results
-├── data/          # Input datasets (not included by default)
+├── data/          # Input datasets - the user can add one at choice
 │
 ├── main.py        # Application entry point without gui - for scientific purposes
 ├── cluster_bends.py
