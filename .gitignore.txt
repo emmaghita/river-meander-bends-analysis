@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# virtual environments
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (upload later)
+data/
