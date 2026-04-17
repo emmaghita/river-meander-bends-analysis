@@ -56,7 +56,7 @@ river-bends-analysis
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/river-bends-analysis.git
+git clone https://github.com/emmaghita/river-bends-analysis.git
 cd river-bends-analysis
 ```
 
